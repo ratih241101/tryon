@@ -1,0 +1,54 @@
+start it
+
+PS D:\SEMESTER1-8\semester 8\tryon> npm init vite
+Need to install the following packages:
+create-vite@5.2.3
+Ok to proceed? (y) y
+√ Project name: ... fptryon
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in D:\SEMESTER1-8\semester 8\tryon\fptryon...
+
+Done. Now run:
+
+  cd fptryon
+  npm install
+  npm run dev
+
+npm notice 
+npm notice New minor version of npm available! 10.2.5 -> 10.7.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.7.0
+npm notice Run npm install -g npm@10.7.0 to update!       
+npm notice
+PS D:\SEMESTER1-8\semester 8\tryon> cd fptryon
+PS D:\SEMESTER1-8\semester 8\tryon\fptryon> npm install
+
+added 278 packages, and audited 279 packages in 53s       
+
+103 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\SEMESTER1-8\semester 8\tryon\fptryon> npm install bootstrap axios react-router-dom
+
+added 14 packages, and audited 293 packages in 9s
+
+106 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\SEMESTER1-8\semester 8\tryon\fptryon> npm run dev
+
+> fptryon@0.0.0 dev
+> vite
+
+
+  VITE v5.2.11  ready in 943 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+  
+
+ 
